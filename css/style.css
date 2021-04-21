@@ -7,6 +7,14 @@ body{
     padding: 0;
 }
 
+.cabecera{
+    background-color: blue;
+    color: white;
+    width: 70%;
+    text-align: left;
+    margin: 0 auto;
+    padding: 1.1em;
+}
 .container{
     width: 70%;
     padding: 1em;
@@ -17,4 +25,7 @@ body{
 
 .container h1{
     font-size: 25px;
+}
+.cabecera span{
+    font-size: 0.8em;
 }
