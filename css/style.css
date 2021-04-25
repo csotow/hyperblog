@@ -14,6 +14,12 @@ body{
     text-align: left;
     margin: 0 auto;
     padding: 1.1em;
+    height: 30px;
+    display: inline-flex;
+    }
+}
+.cabecera img{
+    height: 1em;
 }
 .container{
     width: 70%;
