@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f44b:
+# Hyperblog 😹
 Un blog para aprender a usar [GitHub](https://github.com/csotow/hyperbloghttp:// "GitHub")
 > Esta es una prueba del archivo readme.md del Hyperblog en el que quiero crear un archivo .md impresionante y que sirva para aprender mucho
 >  - Camilo Soto
